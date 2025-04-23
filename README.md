@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">From Data to Impact —Forecasting Futures, Seeing Beyond, Understanding Deeply<br><br>My name is Isra-Mohammed</h2>
+<h2 align="left">My name is Isra-Mohammed</h2>
 
 ###
 
