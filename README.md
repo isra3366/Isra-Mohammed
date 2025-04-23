@@ -1,4 +1,4 @@
-<h1 align="left">✨   AI | AI | WHERE INTELLIGENCE MEETS PURPOSE, SHAPING</h1>
+<h1 align="left">✨   AI | WHERE INTELLIGENCE MEETS PURPOSE, SHAPING</h1>
 
 ###
 
