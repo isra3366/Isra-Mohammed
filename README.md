@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 About Me<br>Data Science Specialist , building intelligent solutions with impact<br><br>Academic Background: Electrical and Electronic Engineering<br><br>Expertise in:<br><br>📈 Time Series Forecasting<br><br>🖼️ Computer Vision<br><br>🧠 Natural Language Processing<br><br>🛰️ Satellite Data Analysis<br><br>Proven experience developing ML/DL models from prototype to production<br><br>Skilled in Python, TensorFlow, PyTorch, scikit-learn, Pandas, SQL, and AWS</p>
+<p align="left">Data Science Specialist , building intelligent solutions with impact<br><br>Academic Background: Electrical and Electronic Engineering<br><br>Expertise in:<br><br>📈 Time Series Forecasting<br><br>🖼️ Computer Vision<br><br>🧠 Natural Language Processing<br><br>🛰️ Satellite Data Analysis<br><br>Proven experience developing ML/DL models from prototype to production<br><br>Skilled in Python, TensorFlow, PyTorch, scikit-learn, Pandas, SQL, and AWS</p>
 
 ###
 
