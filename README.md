@@ -1,8 +1,8 @@
-<h1 align="left">👋</h1>
+<h1 align="left">✨ YONICA AI | Shaping Intelligence with Purpose</h1>
 
 ###
 
-<h2 align="left">My name is Isra-Mohammed</h2>
+<h2 align="left">From Data to Impact —Forecasting Futures, Seeing Beyond, Understanding Deeply<br><br>My name is Isra-Mohammed</h2>
 
 ###
 
@@ -52,5 +52,9 @@
 ###
 
 <img src="https://raw.githubusercontent.com/isra3366/Isra-Mohammed/isra3366/Isra-Mohammed/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
